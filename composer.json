@@ -1,0 +1,26 @@
+{
+    "name": "InnovationLatam/openai",
+    "version": "1.0.1",
+    "description": "Package OpenAI API",
+    "keywords": [
+        "openai",
+        "InnovationLatam"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Rafael Zingano",
+            "email": "confrariaweb@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "InnovationLatam\\OpenAi\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
