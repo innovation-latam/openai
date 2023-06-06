@@ -1,6 +1,6 @@
 {
-    "name": "InnovationLatam/openai",
-    "version": "1.0.1",
+    "name": "innovation-latam/openai",
+    "version": "1.0.0",
     "description": "Package OpenAI API",
     "keywords": [
         "openai",
